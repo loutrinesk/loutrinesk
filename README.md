@@ -6,6 +6,3 @@
  
 ## 🧭 Language
  [![language](https://skillicons.dev/icons?i=js,ts,cs,php,py&theme=dark)](https://github.com/loutrinesk)
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/878350852128145449)](https://discord.com/users/878350852128145449)

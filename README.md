@@ -1,4 +1,4 @@
-### Hi ! Im Loutre, a young backend developer (and Professional Bug Maker). Im interested in developement and infosec!
+Professional Bug Maker
 
 
 ## 💻 Software

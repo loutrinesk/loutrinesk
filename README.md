@@ -1,6 +1,6 @@
 Professional Bug Maker\
 Engineer Student\
-Studying CyberSecurity\ 
+Studying CyberSecurity
 
 ## 💻 Software
  [![softwaire](https://skillicons.dev/icons?i=idea,visualstudio,vscode&theme=dark)](https://github.com/loutrinesk)

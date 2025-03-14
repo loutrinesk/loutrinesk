@@ -1,5 +1,5 @@
 Professional Bug Maker\
-Engineer Student\
+Engineering Student\
 Studying CyberSecurity
 
 ## 💻 Software
